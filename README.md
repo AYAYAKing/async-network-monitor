@@ -174,9 +174,7 @@ screenshots/example-output.png
 
 Then it can be displayed here:
 
-```markdown
-![Monitoring output](screenshots/example-output.png)
-```
+[Monitoring output](screenshots/example-output.png)
 
 ## What This Project Demonstrates
 
